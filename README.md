@@ -1,2 +1,2 @@
-# Data Structures CSPT9 2
+# Data Structures CSPT9
  
